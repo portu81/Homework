@@ -1,7 +1,7 @@
 a = float(input())
 b = float(input())
 min_invest = float(input())
-if a >= min_invest and b >=min_invest:
+if a >= min_invest and b >= min_invest:
     print("2")
 elif a >= min_invest and b < min_invest:
     print("Maik")
